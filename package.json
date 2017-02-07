@@ -1,0 +1,17 @@
+{
+  "name": "Kekstagram",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "eslint": "3.9.0",
+    "eslint-config-htmlacademy": "0.2.x"
+  },
+  "dependencies": {},
+  "scripts": {
+    "test": "eslint js/"
+  },
+  "engines": {
+    "node": "^6.9"
+  },
+  "openBrowser": false
+}
